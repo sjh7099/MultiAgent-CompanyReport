@@ -10,11 +10,11 @@
 링커리어 : Job Description(공고명, 채용형태, 모집직무)
 
 ## Model 구조
-Supervisor : 감독형 에이전트, 재생성 요구 및 최종 보고서 pdf로 생성
-News AGENT : 기업관련 뉴스, 직무관련 뉴스 수집 및 요약
-Company AGENT : 기업 정보, 인재상, 신년사, 재무정보 제공
-Doc AGENT : 사용자와 해당 기업, 직무의 합격자의 스펙 비교, 합격자의 자기소개서 분석
-Interview AGENT : 면접 분위기, 면접 팁 정보 제공 및 예상 질문&답변 생성
+Supervisor : 감독형 에이전트, 재생성 요구 및 최종 보고서 pdf로 생성  
+News AGENT : 기업관련 뉴스, 직무관련 뉴스 수집 및 요약  
+Company AGENT : 기업 정보, 인재상, 신년사, 재무정보 제공  
+Doc AGENT : 사용자와 해당 기업, 직무의 합격자의 스펙 비교, 합격자의 자기소개서 분석  
+Interview AGENT : 면접 분위기, 면접 팁 정보 제공 및 예상 질문&답변 생성  
 
 <img width="1161" alt="스크린샷 2025-07-07 오후 12 52 29" src="https://github.com/user-attachments/assets/0eb22a15-ade5-4240-bd41-19e86c76fc71" />
 
